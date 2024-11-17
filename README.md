@@ -34,3 +34,7 @@ The business improvement team has come up with the following requirements to hel
 ▪ Build Data Mart Cubes for functional areas based on the analytic requirements using SQL Server Analysis services (Using both Multidimensional and Tabular Models)
 
 ▪ Using Tableau and Power BI to design Data Visualisations for business users and management to enable informed decisions
+
+## OLTP Design
+![image](https://github.com/user-attachments/assets/9c308268-f71e-42ef-8a45-5842af39a17c)
+
