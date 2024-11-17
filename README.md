@@ -27,7 +27,7 @@ The business improvement team has come up with the following requirements to hel
 11. Employee misconducts analysis is requested by the management as part of the ongoing strategy to improved work ethics and customer satisfaction
 12. Need to understand Employee Absence trends for performance appraisal and to proactively plan for new employee recruitment to meet the service expectation of Tesca customers
 
-Deliverables:
+### Deliverables:
 
 ▪ You are required to build an Enterprise Data ware housing that addresses the analytic requirements
 
