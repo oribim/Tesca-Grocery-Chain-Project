@@ -29,7 +29,7 @@ The business improvement team has come up with the following requirements to hel
 
 ### Deliverables:
 
-▪ You are required to build an Enterprise Data ware housing that addresses the analytic requirements
+▪ You are required to build an Enterprise Data warehouse that addresses the analytic requirements
 
 ▪ Build Data Mart Cubes for functional areas based on the analytic requirements using SQL Server Analysis services (Using both Multidimensional and Tabular Models)
 
